@@ -1,5 +1,4 @@
 function Counter(element, value) {
-  console.log(element, value);
   this.counter = element;
   this.resetValue = value;
   this.value = value;
